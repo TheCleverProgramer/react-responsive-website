@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/react-responsive-website/static/css/main.c549e912.chunk.css",
+    "main.js": "/react-responsive-website/static/js/main.ea06f717.chunk.js",
+    "main.js.map": "/react-responsive-website/static/js/main.ea06f717.chunk.js.map",
+    "runtime-main.js": "/react-responsive-website/static/js/runtime-main.12439a3d.js",
+    "runtime-main.js.map": "/react-responsive-website/static/js/runtime-main.12439a3d.js.map",
+    "static/css/2.818011ed.chunk.css": "/react-responsive-website/static/css/2.818011ed.chunk.css",
+    "static/js/2.2bedd87c.chunk.js": "/react-responsive-website/static/js/2.2bedd87c.chunk.js",
+    "static/js/2.2bedd87c.chunk.js.map": "/react-responsive-website/static/js/2.2bedd87c.chunk.js.map",
+    "static/js/3.507976be.chunk.js": "/react-responsive-website/static/js/3.507976be.chunk.js",
+    "static/js/3.507976be.chunk.js.map": "/react-responsive-website/static/js/3.507976be.chunk.js.map",
+    "index.html": "/react-responsive-website/index.html",
+    "static/css/2.818011ed.chunk.css.map": "/react-responsive-website/static/css/2.818011ed.chunk.css.map",
+    "static/css/main.c549e912.chunk.css.map": "/react-responsive-website/static/css/main.c549e912.chunk.css.map",
+    "static/js/2.2bedd87c.chunk.js.LICENSE.txt": "/react-responsive-website/static/js/2.2bedd87c.chunk.js.LICENSE.txt",
+    "static/media/4.ddb86092.svg": "/react-responsive-website/static/media/4.ddb86092.svg",
+    "static/media/android.f703e075.svg": "/react-responsive-website/static/media/android.f703e075.svg",
+    "static/media/app_development.ac53f895.svg": "/react-responsive-website/static/media/app_development.ac53f895.svg",
+    "static/media/digital_marketing.8dcc6b90.svg": "/react-responsive-website/static/media/digital_marketing.8dcc6b90.svg",
+    "static/media/marketing.35c74bd0.svg": "/react-responsive-website/static/media/marketing.35c74bd0.svg",
+    "static/media/rocket_launch.1a8e440b.svg": "/react-responsive-website/static/media/rocket_launch.1a8e440b.svg",
+    "static/media/software_development.fd0a700f.svg": "/react-responsive-website/static/media/software_development.fd0a700f.svg",
+    "static/media/web_development.8e01890d.svg": "/react-responsive-website/static/media/web_development.8e01890d.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12439a3d.js",
+    "static/css/2.818011ed.chunk.css",
+    "static/js/2.2bedd87c.chunk.js",
+    "static/css/main.c549e912.chunk.css",
+    "static/js/main.ea06f717.chunk.js"
+  ]
+}
